@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @mithun02
+
+![fcf7fd0c619bb87706533079240915f3](https://user-images.githubusercontent.com/92502966/197322719-4d004047-ef59-43d1-b627-c46a79089c34.gif)
 - 👀 I’m interested in programming
+
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mithunkarthick02@gmail.comm
