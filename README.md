@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
 <h3 align="center">Passionate about Machine Learning and AI,Exploring the Frontiers of Intelligent Technology</h3>
 
-(https://user-images.githubusercontent.com/92502966/197323309-985051e4-788f-4cca-992c-09937ee6dbe2.gif)
+![197323309-985051e4-788f-4cca-992c-09937ee6dbe2](https://github.com/mithun02/mithun02/assets/92502966/d0a10942-8c28-4d94-a478-4d82a3a17ee2)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithun02&label=Profile%20views&color=0e75b6&style=flat" alt="mithun02" /> </p>
