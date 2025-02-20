@@ -10,10 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/mithunroman3" target="blank"><img src="https://img.shields.io/twitter/follow/mithunroman3?logo=twitter&style=for-the-badge" alt="mithunroman3" /></a> </p>
 
-- 🔭 I’m currently working on **FIT_AI:A Gamified Approach To Fitness**
-
-- 🌱 I’m currently learning **Computer Vision in NPTEL**
-
 - 👯 I’m looking to collaborate on **Large Language Model**
 
 - 📝 I regularly write articles on [[https://medium.com/@mithunkarthick02](https://medium.com/@mithunkarthick02)]([https://medium.com/@mithunkarthick02](https://medium.com/@mithunkarthick02))
